@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ariel LIN or @mewsays
+- 👋 Hi, I’m Ariel L. or @mewsays
 - 👀 I’m interested in STEAM education and computer aided learning.
 - 🌱 I’m currently learning C and Python.
 
